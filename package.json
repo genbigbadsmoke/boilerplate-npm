@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Richard Ogunyemi",
+	"description": "my backend certification course with freecodecamp",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
