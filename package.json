@@ -4,6 +4,7 @@
 	"description": "my backend certification course with freecodecamp",
 	"keywords": [ "freecodecamp", "backend", "learning-node" ],
 	"license": "kn9ne",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
